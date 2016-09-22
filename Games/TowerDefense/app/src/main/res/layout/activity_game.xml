@@ -1,0 +1,42 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.schroedel.games.towerdefense.graphics.GameView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/sv_gameView"/>
+
+    <TextView
+        android:id="@+id/lives"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|top"
+        android:padding="16dp"
+        android:textColor="@color/lives"
+        android:textSize="18sp"
+        android:background="@color/label_background"/>
+
+    <TextView
+        android:id="@+id/gold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|top"
+        android:padding="16dp"
+        android:textColor="@color/gold"
+        android:textSize="18sp"
+        android:background="@color/label_background"/>
+
+    <TextView
+        android:id="@+id/countdown_next_wave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:padding="16dp"
+        android:textColor="@color/countdown"
+        android:textSize="24sp"
+        android:background="@color/label_background"
+        android:visibility="gone"/>
+
+</FrameLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tower Defense</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_game_over">Game Over</string>
+    <string name="title_game_won">You won</string>
+
+    <string name="info_lives">Lives left: %1$s</string>
+    <string name="info_gold">Gold: %1$s</string>
+    <string name="info_next_wave">Wave %1$s in: %2$s</string>
+    <string name="info_game_over">No lives left</string>
+    <string name="info_game_won">You survived all waves of enemies - You did it!!!</string>
+
+    <string name="btn_retry">Retry</string>
+    <string name="btn_play_again">Play again</string>
+</resources>

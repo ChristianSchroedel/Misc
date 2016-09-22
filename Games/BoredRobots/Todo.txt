@@ -1,0 +1,9 @@
+ 
+Things we should implement next Time:
+
+- Game Object moves to way point
+- Write test For MoveToWayPoint
+- GameObject can be clicked and send from user to way point
+- Handling of user input in seperate controller class
+- Control inputs for movement via mouse and/or keyboard
+- There Are GameObjects like walls etc., that act like a barrier for the game object > better game object implementation

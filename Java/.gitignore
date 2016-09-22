@@ -1,0 +1,24 @@
+autoGUI/
+Icons/
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.txt
+*.txt.lck
+*.txt.*
+*.mf
+*.*~
+
+*/build.xml
+*/*/build.xml
+*/nbproject/
+*/dist/
+*/build/
+*/*/nbproject/
+*/*/dist/
+*/*/build/

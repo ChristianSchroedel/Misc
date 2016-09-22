@@ -1,0 +1,22 @@
+<MyXML version="1.0">
+<DataElement>
+	<SubElement>
+		<Option>Text1</Option>
+		<Option>Hallo Welt!</Option>
+		<Option>Fus roh daa!</Option>
+		<Option>Do it</Option>
+	</SubElement>
+	<SubElement>
+		<Option>asdf</Option>
+		<Option>Tach die Dame</Option>
+	</SubElement>	
+	<SubElement>
+		<Option>Madre mia</Option>
+		<Option>Fuchs</Option>
+		<Option>sudo</Option>
+	</SubElement>
+	<SubElement>
+		<Option>TADA!!!</Option>
+	</SubElement>
+</DataElement>
+</MyXML>

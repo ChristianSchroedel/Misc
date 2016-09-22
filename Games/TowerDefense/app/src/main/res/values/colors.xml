@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gold">#ffff00</color>
+    <color name="lives">#ff0000</color>
+    <color name="countdown">#ff8800</color>
+
+    <color name="label_background">#66454545</color>
+
+</resources>

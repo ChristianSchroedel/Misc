@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LevelPack name="Basic">
+    <levels>
+        <Level name="First" enemyType="easy">
+            <start x="1" y="0"/>
+            <end x="15" y="7"/>
+            <wayPoints>
+                <WayPoint x="1" y="6"/>
+                <WayPoint x="5" y="6"/>
+                <WayPoint x="5" y="2"/>
+                <WayPoint x="9" y="2"/>
+                <WayPoint x="9" y="1"/>
+                <WayPoint x="14" y="1"/>
+                <WayPoint x="14" y="5"/>
+                <WayPoint x="9" y="5"/>
+                <WayPoint x="9" y="7"/>
+                <WayPoint x="15" y="7"/>
+            </wayPoints>
+        </Level>
+    </levels>
+</LevelPack>

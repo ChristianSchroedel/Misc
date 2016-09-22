@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EnemyPack>
+	<enemyFlavours>
+		<EnemyFlavour name="easy">
+			<waves>
+				<EnemyWave hitPoints="1" amount="20"/>
+				<EnemyWave hitPoints="2" amount="20"/>
+				<EnemyWave hitPoints="4" amount="20"/>
+				<EnemyWave hitPoints="6" amount="20"/>
+				<EnemyWave hitPoints="8" amount="20"/>
+				<EnemyWave hitPoints="10" amount="20"/>
+				<EnemyWave hitPoints="12" amount="20"/>
+				<EnemyWave hitPoints="14" amount="20"/>
+				<EnemyWave hitPoints="16" amount="20"/>
+				<EnemyWave hitPoints="20" amount="20"/>
+			</waves>
+		</EnemyFlavour>
+	</enemyFlavours>
+</EnemyPack>
